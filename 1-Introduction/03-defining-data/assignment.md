@@ -32,7 +32,7 @@ Source Type: Primary
 
 3. A workplace survey of employee morale that is stored in a CSV file. 
 
-Structure Type:Structured
+Structure Type:Semi-Structured
 
 Value Type: Qualitative
 
@@ -57,7 +57,7 @@ Structure Type:Structured
 
 Value Type: Quantitative 
 
-Source Type: Secondary
+Source Type: Primary
 
 ## Rubric
 
